@@ -1,5 +1,5 @@
-### Hi there 👋
 <div align="center">
+  <h3>Hi there 👋</h3>  
   <img src="https://media.tenor.com/HCbWEaJJ9s8AAAAM/typing-typing-emoji.gif">
    <h1>Abdiel Avila</h1>
 </div>
