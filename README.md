@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://media1.tenor.com/m/0JQpO_fucCIAAAAd/typing.gif">
+  <img src="https://media.tenor.com/HCbWEaJJ9s8AAAAM/typing-typing-emoji.gif">
    <h1>Abdiel Avila</h1>
 </div>
 <div align="center">
