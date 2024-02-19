@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/0JQpO_fucCIAAAAd/typing.gif">
+   <h1>Abdiel Avila</h1>
+</div>
+<div align="center">
+  Contactame: [Instagram](https://instagram.com/29.abdn)
+  <h3>Herramientas que uso</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50">
 <!--
 **abdn29/abdn29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
