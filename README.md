@@ -9,16 +9,16 @@
   </a>
 </div>
 
-<h4 align="center">
+<h3 align="left">
 
 I’m a `web developer` in training and a `Software Engineering` student. I’m `passionate` about what I do and always seek `new challenges` and `experiences` that help me grow. I love taking on `challenges`, learning `new things`, and continuing to `build my own path` in the world of technology.
-<h4>
+<h3>
 
 <br>
-<h2 align="center">My Tech Stack👨🏻‍💻</h2>
-<p align="center">
+<h2 align="left">My Tech Stack👨🏻‍💻</h2>
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs,react,postgres,figma,java,python,cs,html,css&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs,react,postgres,figma,java,python,cs,html,css&perline=6" />
   </a>
 </p>
 <br>
