@@ -18,7 +18,7 @@ I’m a `web developer` in training and a `Software Engineering` student. I’m 
 <h2 align="left">My Tech Stack👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs,react,postgres,figma,java,python,cs,html,css&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,nextjs,postgres,figma,java,python,cs&perline=6" />
   </a>
 </p>
 <br>
