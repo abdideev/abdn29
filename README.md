@@ -9,10 +9,10 @@
   </a>
 </div>
 
+<h2 align="left">About Me</h2>
 <h3 align="left">
-
-I’m a `web developer` in training and a `Software Engineering` student. I’m `passionate` about what I do and always seek `new challenges` and `experiences` that help me grow. I love taking on `challenges`, learning `new things`, and continuing to `build my own path` in the world of technology.
-<h3>
+I’m a <code>web developer</code> in training and a <code>Software Engineering</code> student. I’m <code>passionate</code> about what I do and always seek <code>new challenges</code> and <code>experiences</code> that help me grow. I love taking on <code>challenges</code>, learning <code>new things</code>, and continuing to <code>build my own path</code> in the world of technology.
+</h3>
 
 <br>
 <h2 align="left">My Tech Stack👨🏻‍💻</h2>
@@ -23,3 +23,7 @@ I’m a `web developer` in training and a `Software Engineering` student. I’m 
 </p>
 <br>
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdideev&theme=default&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdideev&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
