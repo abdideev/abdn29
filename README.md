@@ -1,15 +1,25 @@
-# 💫 About Me:
-Hi<br>I'm a Web Developer 💻 in the making and a Software Engineering student. I'm on a journey to discover my niche, exploring new technologies along the way.
+<div align="center">
+  
+  <h1>
+    Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h1>
 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23007BFF&size=25&center=true&vCenter=true&width=500&height=100&lines=My+name+is+Abdiel;Web+Developer;Software+Engineer" alt="Typing SVG">
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdideev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abdideev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdideev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h4 align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=abdideev&icon=0&color=0)](https://visitcount.itsvg.in)
+I’m a `web developer` in training and a `Software Engineering` student. I’m `passionate` about what I do and always seek `new challenges` and `experiences` that help me grow. I love taking on `challenges`, learning `new things`, and continuing to `build my own path` in the world of technology.
+<h4>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+<h2 align="center">My Tech Stack👨🏻‍💻</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs,react,postgres,figma,java,python,cs,html,css&perline=5" />
+  </a>
+</p>
+<br>
+
