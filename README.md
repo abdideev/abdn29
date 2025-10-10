@@ -7,6 +7,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23007BFF&size=25&center=true&vCenter=true&width=500&height=100&lines=My+name+is+Abdiel;Web+Developer;Software+Engineer" alt="Typing SVG">
   </a>
+
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/07/spiderman-gif-9.gif" style="width:200px; height:auto;">
 </div>
 
 <h2 align="left">About Me</h2>
