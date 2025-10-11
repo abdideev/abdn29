@@ -26,6 +26,6 @@ I’m a <code>web developer</code> in training and a <code>Software Engineering<
 <br>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdideev&theme=default&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdideev&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdideev&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdideev&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
